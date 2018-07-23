@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\factory method\factory method\bin\Debug\factory method.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\factory method\factory method\bin\Debug\factory method.exe
+c:\users\pc\documents\visual studio 2015\Projects\factory method\factory method\bin\Debug\factory method.pdb
+c:\users\pc\documents\visual studio 2015\Projects\factory method\factory method\obj\Debug\factory method.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\factory method\factory method\obj\Debug\factory method.exe
+c:\users\pc\documents\visual studio 2015\Projects\factory method\factory method\obj\Debug\factory method.pdb

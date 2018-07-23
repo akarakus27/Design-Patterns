@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\prototype\prototype\bin\Debug\prototype.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\prototype\prototype\bin\Debug\prototype.exe
+c:\users\pc\documents\visual studio 2015\Projects\prototype\prototype\bin\Debug\prototype.pdb
+c:\users\pc\documents\visual studio 2015\Projects\prototype\prototype\obj\Debug\prototype.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\prototype\prototype\obj\Debug\prototype.exe
+c:\users\pc\documents\visual studio 2015\Projects\prototype\prototype\obj\Debug\prototype.pdb
