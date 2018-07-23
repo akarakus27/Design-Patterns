@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\builder\builder\bin\Debug\builder.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\builder\builder\bin\Debug\builder.exe
+c:\users\pc\documents\visual studio 2015\Projects\builder\builder\bin\Debug\builder.pdb
+c:\users\pc\documents\visual studio 2015\Projects\builder\builder\obj\Debug\builder.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\builder\builder\obj\Debug\builder.exe
+c:\users\pc\documents\visual studio 2015\Projects\builder\builder\obj\Debug\builder.pdb
