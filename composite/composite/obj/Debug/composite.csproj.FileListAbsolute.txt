@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\composite\composite\bin\Debug\composite.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\composite\composite\bin\Debug\composite.exe
+c:\users\pc\documents\visual studio 2015\Projects\composite\composite\bin\Debug\composite.pdb
+c:\users\pc\documents\visual studio 2015\Projects\composite\composite\obj\Debug\composite.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\composite\composite\obj\Debug\composite.exe
+c:\users\pc\documents\visual studio 2015\Projects\composite\composite\obj\Debug\composite.pdb
