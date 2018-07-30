@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\starategy\starategy\bin\Debug\starategy.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\starategy\starategy\bin\Debug\starategy.exe
+c:\users\pc\documents\visual studio 2015\Projects\starategy\starategy\bin\Debug\starategy.pdb
+c:\users\pc\documents\visual studio 2015\Projects\starategy\starategy\obj\Debug\starategy.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\starategy\starategy\obj\Debug\starategy.exe
+c:\users\pc\documents\visual studio 2015\Projects\starategy\starategy\obj\Debug\starategy.pdb
