@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\memento\memento\bin\Debug\memento.exe.config
+C:\Users\Pc\documents\visual studio 2015\Projects\memento\memento\bin\Debug\memento.exe
+C:\Users\Pc\documents\visual studio 2015\Projects\memento\memento\bin\Debug\memento.pdb
+C:\Users\Pc\documents\visual studio 2015\Projects\memento\memento\obj\Debug\memento.csprojResolveAssemblyReference.cache
+C:\Users\Pc\documents\visual studio 2015\Projects\memento\memento\obj\Debug\memento.exe
+C:\Users\Pc\documents\visual studio 2015\Projects\memento\memento\obj\Debug\memento.pdb
