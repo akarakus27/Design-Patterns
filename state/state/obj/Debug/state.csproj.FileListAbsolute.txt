@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\state\state\bin\Debug\state.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\state\state\bin\Debug\state.exe
+c:\users\pc\documents\visual studio 2015\Projects\state\state\bin\Debug\state.pdb
+c:\users\pc\documents\visual studio 2015\Projects\state\state\obj\Debug\state.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\state\state\obj\Debug\state.exe
+c:\users\pc\documents\visual studio 2015\Projects\state\state\obj\Debug\state.pdb
